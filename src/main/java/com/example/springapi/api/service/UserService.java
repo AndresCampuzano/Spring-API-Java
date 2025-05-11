@@ -1,4 +1,4 @@
-package com.example.springapi.service;
+package com.example.springapi.api.service;
 
 import com.example.springapi.api.model.User;
 import org.springframework.stereotype.Service;
